@@ -1,7 +1,7 @@
 # ITG-DDR-Brackets
 ## Warning!! This design is still being tested, revisions and suggestions are welcome.
 ### Tested to be proven working on an Ender 3 bed!
-Free to print jig, and quarter brackets for both DDR and ITG pads alike. Printed off in Inland Black PLA, nothing fancy. I'd made these to hopefully both solve the issue where players are using transient materials (Gorilla tape/shims/large foam), as well as provide a new style of DIY sensor housing for the post-ITG community. These brackets also happen to use the consumer-ready $4 interlink sensors, and provide protection the solder tabs when in-use. While off-center, these should provide the same, if not, more coverage than the $15 StepmaniaX sensors.
+Free to print quarter brackets, and jig, for both DDR and ITG pads alike. Printed off in Inland Black PLA, nothing fancy. I'd made these to hopefully both solve the issue where players are using transient materials (Gorilla tape/shims/large foam), as well as provide a new style of DIY sensor housing for the post-ITG community. These brackets also happen to use the consumer-ready $4 interlink sensors, and provide protection the solder tabs when in-use. While off-center, these should provide the same, if not, more coverage than the $15 StepmaniaX sensors.
 
 Fair warning, these brackets are raised several millimeters above what would be considered "flush" for most pads, to account for a router shaving off the polycarbonate edges at a 45. If you're looking to have these be flush, you'll need to lower the height of the bracket in whatever CAD software you choose.
 
